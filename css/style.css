@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Main;
+    src: url(../fonts/NexaTextDemo-Bold.woff);
+  }
+
+body {
+    background-image: url("../images/background.png");
+    height: 100%;
+    background-color: #3f363a;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pr-list{
+    padding-left: 75px;
+}
+
+.container {
+    font-family: Main;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #222222;
+    background-clip: border-box;
+    padding: 50px;
+    color: #ffffff;
+    min-height: 10px;
+ }
+
+ 
